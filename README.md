@@ -8,7 +8,7 @@ It provides a seamless shopping experience with AI assistance, secure authentica
 ## 🚀 Live Demo
 
 🌐 Frontend (Vercel):  
-👉 https://your-vercel-link.vercel.app
+👉 https://e-commerce-csec-astu-bootcamp-ntct3vv0z.vercel.app/
 
 ---
 
